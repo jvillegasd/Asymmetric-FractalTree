@@ -33,7 +33,6 @@ namespace AssymetricFractalTree
                 g.DrawLine(pen, xo, yo, xf, yf);
                 paintAsymmetricFT(pen, g, xf, yf, angle + rightAngleVar, rightAngleVar, leftAngleVar, depth - 1, length);
                 paintAsymmetricFT(pen, g, xf, yf, angle - leftAngleVar, rightAngleVar, leftAngleVar, depth - 1, length);
-
             }
         }
 

@@ -7,3 +7,12 @@ C:\Users\Johnny\Desktop\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\As
 C:\Users\Johnny\Desktop\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\AssymetricFractalTree.csproj.GenerateResource.Cache
 C:\Users\Johnny\Desktop\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\AssymetricFractalTree.exe
 C:\Users\Johnny\Desktop\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\AssymetricFractalTree.pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\AssymetricFractalTree\AssymetricFractalTree\bin\Debug\AssymetricFractalTree.exe.config
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\AssymetricFractalTree.exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\AssymetricFractalTree.pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\AssymetricFractalTree\AssymetricFractalTree\bin\Debug\AssymetricFractalTree.exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\AssymetricFractalTree\AssymetricFractalTree\bin\Debug\AssymetricFractalTree.pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\AssymetricFractalTree.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\AssymetricFractalTree.Frame.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\AssymetricFractalTree.Properties.Resources.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\AssymetricFractalTree\AssymetricFractalTree\obj\Debug\AssymetricFractalTree.csproj.GenerateResource.Cache

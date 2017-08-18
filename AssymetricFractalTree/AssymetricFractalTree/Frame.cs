@@ -20,6 +20,7 @@ namespace AssymetricFractalTree
             this.MaximizeBox = false;
             this.Text = "Asymmetric Fractal tree";
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            this.CenterToScreen();
             pictureBox.BorderStyle = BorderStyle.Fixed3D;
         }
 
